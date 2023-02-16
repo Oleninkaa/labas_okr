@@ -1,0 +1,38 @@
+td, tr, th, table{
+   border-radius: 4px;
+    table-layout: fixed;
+    
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+th{
+    background-color: #965396;
+    color: white;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+a:hover{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+}
+
+
+h1, h2{
+    color:rgb(48, 6, 146);
+    text-align: center;
+
+}
+

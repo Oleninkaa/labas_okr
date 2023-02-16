@@ -1,0 +1,105 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+   box-sizing: border-box;
+    font-size: 20px;
+
+   
+}
+
+p{
+    font-size: em ;
+}
+
+h1{
+    color:rgb(48, 6, 146);
+    text-align: center;
+
+}
+
+
+a{
+   
+    
+    font-weight: 500;
+    
+}
+
+
+
+ul li{
+  
+    margin: 20px 0;
+}
+
+
+
+.block{
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: space-around;
+    
+}
+
+.block__element{
+    text-align: center;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 18px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.block__element img{
+    width: 100%;
+}
+
+.block__element h3{
+    
+    color: rgb(43, 43, 43);
+}
+
+.block__element .price{
+    color: rgb(0, 0, 0);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height:90vh;
+  
+    justify-content: space-between;
+    padding: 10px 80px;
+}
+
+.container-books{
+    padding: 10px 80px;
+}
+
+.container-books p{
+    margin-top: 10px;
+    
+}
+
+
+i{
+    color: red;
+}
+
+#half{
+    width: 50%;
+}
+#two{
+    width: 200%;
+}
+
+
+.links{
+    background-color: rgb(247, 213, 213);
+    border-radius: 12px;
+    padding: 5%;
+}
+
+
+dt{
+    font-weight: 700;
+   
+}
